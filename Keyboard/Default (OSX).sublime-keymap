@@ -1,0 +1,8 @@
+
+[
+{ "keys": ["alt+a"], "command": "insert_snippet", "args": {"name": "Packages/HTMLEdit/TagSnippets/URL.sublime-snippet" }},
+{ "keys": ["alt+s"], "command": "insert_snippet", "args": {"name": "Packages/HTMLEdit/TagSnippets/STRONG.sublime-snippet" }},
+{ "keys": ["alt+p"], "command": "insert_snippet", "args": {"name": "Packages/HTMLEdit/TagSnippets/PARA.sublime-snippet" }},
+{ "keys": ["alt+e"], "command": "insert_snippet", "args": {"name": "Packages/HTMLEdit/TagSnippets/EMP.sublime-snippet" }},
+{ "keys": ["alt+i"], "command": "insert_snippet", "args": {"name": "Packages/HTMLEdit/TagSnippets/IMG.sublime-snippet" }}
+]
